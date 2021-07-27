@@ -1,7 +1,7 @@
 {
-  "Visibility": "GONE",
-  "Title": "Test",
-  "Description": "Test Message",
+  "Visibility": "VISIBLE",
+  "Title": "Ops! Updated Realese",
+  "Description": "Fix All Bug",
   "MainTextButton": "Update",
   "Cancelable": "true",
   "CancelButtonText": "Cancel",
